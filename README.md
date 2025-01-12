@@ -36,6 +36,8 @@ Sonaric Sonaric GUI connection is a powerful, user-friendly SSH tunneling applic
 
 *Screenshots will be added soon*
 
+<img src="https://i.ibb.co/9q5Pttj/Capture-d-cran-2025-01-12-181844.png" alt="Capture-d-cran-2025-01-12-181844" border="1">
+
 ## 🚦 Quick Start
 
 ### Prerequisites
